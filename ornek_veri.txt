@@ -1,0 +1,77 @@
+Bu bir Türkçe cümledir. LLM eğitimi için kullanılabilir.
+This is an English sentence. It can be used for LLM training.
+Dies ist ein deutscher Satz. Es kann für LLM-Training verwendet werden.
+这是一个中文句子。它可以用于LLM培训。
+これは日本語の文章です。LLMトレーニングに使用できます。
+
+Bu bir Türkçe cümledir. LLM eğitimi için kullanılabilir.
+Bu bir Türkçe cümledir. LLM eğitimi için kullanılabilir.
+This is an English sentence. It can be used for LLM training.
+This is an English sentence. It can be used for LLM training.
+
+Soru: Yapay zeka nedir?
+Cevap: Yapay zeka, insan zekasını taklit eden ve öğrenme, problem çözme ve karar verme gibi görevleri yerine getirebilen bilgisayar sistemlerini ifade eder.
+
+Yapay zekanın tarihçesi nedir?
+Yapay zeka (AI) kavramı 1950'lerde ortaya çıkmıştır. Alan Turing, 1950'de "Bilgisayarlar düşünebilir mi?" sorusunu sorarken, John McCarthy 1956'da "yapay zeka" terimini ilk kez kullanmıştır. İlk AI programları, mantık problemlerini çözen ve basit stratejik oyunlar oynayan sistemlerdi. 1960'larda ELIZA gibi dil işleme programları geliştirildi, ancak 1970'lerde "AI kışı" olarak bilinen bir dönem yaşandı. 1980'lerde uzman sistemler popüler oldu, 1990'larda satranç şampiyonunu yenen Deep Blue gibi sistemler ortaya çıktı. 2010'lardan sonra makine öğrenimi ve derin öğrenme ile büyük ilerleme kaydedildi.
+
+Insan: Yapay zeka hakkında bilgi verir misin?
+Yapay Zeka: Yapay zeka (AI), insan zekasını taklit eden ve öğrenebilen, problem çözebilen ve karar alabilen bilgisayar sistemlerini ifade eder. Makine öğrenimi, derin öğrenme, doğal dil işleme ve bilgisayarlı görü gibi alt alanlar içerir. Günümüzde sohbet botları, öneri sistemleri, otonom araçlar, tıbbi teşhis araçları ve daha birçok uygulamada kullanılmaktadır.
+
+User: Tell me about artificial intelligence
+Assistant: Artificial intelligence (AI) refers to computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. It includes subfields like machine learning, deep learning, natural language processing, and computer vision. Today, AI is used in chatbots, recommendation systems, autonomous vehicles, medical diagnostic tools, and many other applications.
+
+BUY NOW!!! AMAZING DISCOUNT!!! LIMITED TIME OFFER!!! CLICK HERE TO CLAIM YOUR FREE GIFT!!! www.example.com SATISFACTION GUARANTEED OR YOUR MONEY BACK!!!
+
+Yapay sinir ağları nasıl çalışır?
+Yapay sinir ağları (YSA), insan beynindeki nöronların yapısından ilham alan bir makine öğrenmesi modelidir. YSA, birbirine bağlı düğümlerden (yapay nöronlar) oluşur ve katmanlar halinde düzenlenir: giriş katmanı, bir veya daha fazla gizli katman ve çıkış katmanı. Her bağlantının bir ağırlığı vardır ve her nöron bir aktivasyon fonksiyonuna sahiptir.
+
+YSA'nın çalışma prensibi:
+1. Giriş katmanı, veriyi alır ve gizli katmanlara iletir.
+2. Her nöron, gelen verileri ağırlıklandırarak toplar ve bir aktivasyon fonksiyonundan geçirir.
+3. Bu işlem katman katman ilerler ve çıkış katmanına ulaşır.
+4. Eğitim sürecinde, gerçek sonuç ile tahmin arasındaki fark (hata) hesaplanır.
+5. Geri yayılım algoritması ile ağırlıklar güncellenir, hata minimize edilmeye çalışılır.
+
+Derin öğrenme, çok katmanlı YSA'ları kullanan bir alt alandır ve karmaşık örüntüleri öğrenmede oldukça başarılıdır.
+
+Prompt: Bir şiir yazar mısın?
+Completion: Gökyüzünde dans eden yıldızlar,
+Karanlığı aydınlatan gümüş ışıklar.
+Rüzgarın fısıltısı kulağımda,
+Geçmişin izleri ayak ucumda.
+
+Dalgaların ritmi sahilde,
+Kuşların neşesi ağaç dallarında.
+Zamanın akışı dur durak bilmez,
+Anılar kalbimizde solmaz.
+
+<html>
+<head>
+<title>Örnek HTML Sayfası</title>
+</head>
+<body>
+<h1>Bu bir HTML başlığıdır</h1>
+<p>Bu bir paragraftır.</p>
+</body>
+</html>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+
+for i in range(10):
+    print(fibonacci(i))
+
+11111111111111111111111111
+AAAAAAAAAAAAAAAAAAAAAAAAA
+!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Bu bir Türkçe cümledir. LLM eğitimi için kullanılabilir.
+This is an English sentence. It can be used for LLM training.
+Ceci est une phrase française. Il peut être utilisé pour la formation LLM.
+Esta es una oración en español. Puede utilizarse para el entrenamiento de LLM.
+Questa è una frase in italiano. Può essere utilizzato per l'addestramento LLM.
